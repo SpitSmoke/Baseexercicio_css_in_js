@@ -1,9 +1,9 @@
-import EbacJobs from './styles'
+import { HeaderModule } from './style'
 
 const Cabecalho = () => (
-  <EbacJobs>
+  <HeaderModule>
     <h1>EBAC Jobs</h1>
-  </EbacJobs>
+  </HeaderModule>
 )
 
 export default Cabecalho

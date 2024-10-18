@@ -21,7 +21,7 @@ padding-bottom: 120px;
 export default GlobalStyle
 
 export const Container = styled.div`
-  .containe {
+  .container {
     max-width: 1024px;
     width: 100%;
   }
